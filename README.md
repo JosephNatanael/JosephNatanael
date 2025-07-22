@@ -4,11 +4,23 @@
   <img src="https://media.giphy.com/media/JSm18BuTgpKJoyRbDR/giphy.gif" width="300" alt="Hello Gif" />
 </p>
 
+<p align="center">
+  <img src="img/tekkadan.png" alt="Joseph Natanael" width="150" />
+</p>
+
 ---
 
 🎓 **Mahasiswa | Web Developer | Problem Solver**  
 💻 Saat ini sedang fokus belajar: PHP, Laravel, dan Cyber Security  
 🌐 Tertarik dengan dunia open source & project kolaboratif
+
+---
+
+### 🕹️ Mini Arcade Corner
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JosephNatanael/JosephNatanael/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
@@ -31,7 +43,7 @@
   <a href="https://instagram.com/josephmorasa">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:ocep@email.com">
+  <a href="mailto:joseph@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/josephmorasa">
