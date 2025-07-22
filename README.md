@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there Im Joseph Natanael 😗
+![halo](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDNoZXkwMGMyd25nd2JiNG9ncDZocGVxd2M4em94bWhnMGRyeHBqdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JSm18BuTgpKJoyRbDR/giphy.gif)
 
 <!--
 **JosephNatanael/JosephNatanael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **Laravel** Framework
+
