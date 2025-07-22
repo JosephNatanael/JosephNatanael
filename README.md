@@ -4,10 +4,6 @@
   <img src="https://media.giphy.com/media/JSm18BuTgpKJoyRbDR/giphy.gif" width="300" alt="Hello Gif" />
 </p>
 
-<p align="center">
-  <img src="img/tekkadan.png" alt="Joseph Natanael" width="150" />
-</p>
-
 ---
 
 🎓 **Mahasiswa | Web Developer | Problem Solver**  
