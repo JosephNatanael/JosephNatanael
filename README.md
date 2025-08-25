@@ -7,7 +7,7 @@
 ---
 
 🎓 **Mahasiswa | Web Developer | Problem Solver**  
-💻 Saat ini sedang fokus belajar: PHP, Laravel, dan Cyber Security  
+💻 Saat ini sedang fokus belajar: PHP, Laravel, dan React  
 🌐 Tertarik dengan dunia open source & project kolaboratif
 
 ---
@@ -39,7 +39,7 @@
   <a href="https://instagram.com/josephmorasa">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:joseph@email.com">
+  <a href="mailto:ocepmorasa@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/josephmorasa">
