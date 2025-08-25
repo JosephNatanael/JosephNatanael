@@ -47,21 +47,3 @@
   </a>
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosephNatanael&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephNatanael&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### ⚡ Fun Fact
-
-> "Koding itu seperti seni—semakin banyak berlatih, semakin indah hasilnya."
-
----
-
